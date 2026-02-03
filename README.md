@@ -3,7 +3,7 @@
 A comprehensive personal portfolio website designed to showcase my academic journey, projects, and skills in Textile Technology. Built with **React** and **Vanilla CSS**, this application features a modern, responsive, and premium dark-themed design.
 
 ## 🚀 Live Demo
-*(portfolio-wheat-five-59wynjtdht.vercel.app)*
+*[My Portfolio](portfolio-wheat-five-59wynjtdht.vercel.app)*
 
 ## 👩‍💻 About Me
 
