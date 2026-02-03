@@ -1,3 +1,4 @@
+import profileImg from '../assets/profile.jpeg';
 import './Hero.css';
 
 const Hero = () => {
@@ -17,8 +18,9 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-visual fade-in" style={{animationDelay: '0.6s'}}>
-            {/* Abstract textile visual or placeholder */}
-            <div className="visual-circle"></div>
+            <div className="img-container">
+              <img src={profileImg} alt="Nithyasri P" className="hero-img" />
+            </div>
         </div>
       </div>
     </section>
